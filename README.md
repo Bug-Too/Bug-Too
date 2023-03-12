@@ -1,5 +1,15 @@
-### Hi there 👋
+<div id="header" align="center">
+  <img src="./giphy.gif" width="200"/>
+  
+### Hello I'm Purich Seenuallae
+I'm a computer engineering undergraduate student at Faculty of Engineering, Chiang Mai University.
+I’m interested in front-end web development, UX/UI design, computational intelligence.
 
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bug-Too&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+</div>
 <!--
 **Bug-Too/Bug-Too** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
